@@ -1,4 +1,4 @@
-
+#include<patientanalysis.h>
 int patientanalysis(char a[100]){	
 	if(strcmp(a,"fever")==0)
 	{
